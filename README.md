@@ -123,7 +123,7 @@ Copy code
 
 ## 🙏 Acknowledgments
 
-Special thanks to the **School of Computing and Information Technology**, University XYZ, for resources and guidance, and to the contributors for their dedication to advancing big data analytics and machine learning.
+Special thanks to the **School of Computing and Information Technology**, University of Wollongong, for resources and guidance, and to the contributors for their dedication to advancing big data analytics and machine learning.
 
 ---
 
